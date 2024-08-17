@@ -1,0 +1,1 @@
+project-template for now is the angular future projects start so if you see it necessary copy it then do your modifications
